@@ -81,8 +81,8 @@
 
 <div text-align="center">
 
-| Ano/Semestre | Descrição | Parceiro Acadêmico | Informações |
+| Semestre | Desafio | Cliente | Repositório |
 |:---:|:---:|:---:|:---:|
-| 2022.1 | Website de gerenciamento de contas de água e energia | Tecsus | [API 2022.1](api_2022_1.md) |
+| 3º | Software para a cadastro e gestão contas de água e energia | Tecsus | [Digital Solutions](api_2022_1.md) |
 
 </div>
