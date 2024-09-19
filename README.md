@@ -81,8 +81,8 @@
 
 <div text-align="center">
 
-| Semestre | Desafio | Cliente | Repositório |
+| Semestre | Desafio | Cliente | Mais Informações |
 |:---:|:---:|:---:|:---:|
-| 3º | Software para a cadastro e gestão contas de água e energia | Tecsus | [Digital Solutions](api_2022_1.md) |
+| 3º | Software para a cadastro e gestão contas de água e energia | Tecsus | [api_2022_1](api_2022_1.md) |
 
 </div>
