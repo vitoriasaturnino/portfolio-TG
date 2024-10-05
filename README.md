@@ -84,5 +84,7 @@
 | Semestre | Desafio | Cliente | Mais Informações |
 |:---:|:---:|:---:|:---:|
 | 3º | Software para a cadastro e gestão contas de água e energia | Tecsus | [api_2022_1](api_2022_1.md) |
+| 4º | Software para o gerenciamento de jornada de trabalho | 2RP Net | [api_2022_1](api_2022_1.md) |
+| 5º | Software para o gerenciamento de chamados (Serviço de Atendimento ao Cliente - SAC) | IACIT | [api_2023_1](api_2023_1.md) |
 
 </div>
